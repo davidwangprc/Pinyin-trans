@@ -1,6 +1,3 @@
-
-
-import sys
 import json
 import pypinyin
 from pypinyin import pinyin
